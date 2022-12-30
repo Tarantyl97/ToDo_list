@@ -1,0 +1,19 @@
+{
+  "name": "Test",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start --openssl-legacy-provider",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "core-js": "^3.25.3",
+    "nuxt": "^2.15.8",
+    "react-scripts": "^5.0.1",
+    "vue": "^2.7.14",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10"
+  }
+}
